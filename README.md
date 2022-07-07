@@ -4,9 +4,6 @@
 This Insta bot logs in to your Instagram account and after that goes to the page of the community we need
 and subscribes to its subscribers (we set the required number of subscribers).
 
-### Bot at work:
-![flash_card_app_gif](https://github.com/slychagin/flash-card-app/blob/master/images/flashy.gif)
-
 ### Technologies:
 - Python 3;
 - modules: Time, Os, Selenium Webdriver, Dotenv
